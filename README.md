@@ -6,6 +6,7 @@
 <p>Pueden usar files, pods, Core ML, Arkit, Dictionary. Cualquier utilidad que les sea util para su aplicaci&oacute;n.</p>
 <p><strong><br /><span style="font-weight: 400;">A continuaci&oacute;n una imagen con &aacute;reas donde se puede aplicar </span>Markov model: </strong></p>
 
+https://en.wikipedia.org/wiki/Markov_chain <p>
 https://es.wikipedia.org/wiki/Cadena_de_Márkov <p>
 https://www.twilio.com/blog/intro-to-markov-models-with-swift <p>
 https://medium.com/grand-parade/implementing-markov-chain-in-swift-generating-texts-a7a188f8f6bf <p>
